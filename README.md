@@ -10,7 +10,7 @@
  <li>Analyzing DLLs & Handles</li>
  <li>Dumpping</li>
 </ul>
- <ul type=“circle”>
+ <ul type="circle">
  <li>Besides some plugins (in .xmind file) are notes which indicates some switches with brief description!</li>
 </ul>
 <hr>
