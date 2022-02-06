@@ -13,7 +13,7 @@
 </ul>
  <ul type="circle">
  <li>Besides some plugins (in .xmind file) are notes which indicates some switches with brief description!</li>
- you can view xmind file online <a href="https://1drv.ms/u/s!AvRl-scOeE4jhReihYja9PR76XBQ" here </a>
+ you can view xmind file online <a href=https://1drv.ms/u/s!AvRl-scOeE4jhReihYja9PR76XBQ> here </a>
 </ul>
 <hr>
   <img src="https://user-images.githubusercontent.com/86436070/152698592-d3bf0817-c1a1-406f-a11e-eb5732676bcb.png">
