@@ -9,6 +9,9 @@
  <li>Finding Malware</li>
  <li>Analyzing DLLs & Handles</li>
  <li>Dumpping</li>
- Besides some plugins (in .xmind file) are notes which indicates some switches with brief description!
+</ul>
+ <ul type=“circle”>
+ <li>Besides some plugins (in .xmind file) are notes which indicates some switches with brief description!</li>
+</ul>
 <hr>
   <img src="https://user-images.githubusercontent.com/86436070/152692927-a7669967-701c-4e3d-8fd6-9b5d284e5e9e.png">
